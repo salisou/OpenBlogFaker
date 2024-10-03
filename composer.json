@@ -18,5 +18,8 @@
     }
   ],
   "minimum-stability": "stable",
-  "require": {}
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.1"
+  }
 }
