@@ -1,6 +1,6 @@
 <?php
 
-namespace Salis\OpenBlogFaker;
+namespace Salis\OpenBlogFaker\Faker;
 
 use Salis\OpenBlogFaker\Library\CityData;
 use Salis\OpenBlogFaker\Library\NameData;
